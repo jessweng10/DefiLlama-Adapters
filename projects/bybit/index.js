@@ -1,4 +1,4 @@
-const { cexExports } = require("../helper/cex");
+2const { cexExports } = require("../helper/cex");
 const bitcoinAddressBook = require("../helper/bitcoin-book/index.js");
 
 const config = {
